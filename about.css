@@ -25,3 +25,8 @@ nav li {
 a {
     text-decoration: none;
 }
+
+.larger-image{
+    height: 500px;
+    width: 500px;
+}
