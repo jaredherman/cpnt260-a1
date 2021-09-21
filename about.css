@@ -26,7 +26,11 @@ a {
     text-decoration: none;
 }
 
-.larger-image{
+.larger-image {
     height: 500px;
     width: 500px;
+}
+
+.main {
+    max-width: 100ch
 }
